@@ -49,7 +49,7 @@ export default function Home() {
                         <div>{description[1] ? description[1] : ''}</div>
                             <div className="flex gap-4 border border-gray-500 p-1 my-1" >
                         <span className={result.show ? 'line-through' : 'bold'}>£{result.ssp}</span>
-                        <span className={result.show ? 'font-bold' : 'hidden'}>£{Math.round(result.show, 0)}</span>
+                        <span className={result.show ? 'font-bold' : 'hidden'}>£{Math.round(result.show as number)}</span>
                         </div>
                     </div>
                 )
