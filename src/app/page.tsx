@@ -22,6 +22,7 @@ export default function Home() {
     const submitSearch = (e: React.SyntheticEvent<HTMLFormElement>) => {
         e.preventDefault()
         setResults(searchBot.search(search))
+        document.getElementById('search')?.blur()
     }
 
     const updateSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
