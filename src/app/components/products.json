@@ -1,7 +1,7 @@
 [
  {
    "code": "BH-CLEANIT",
-   "description": "Blue Horizon Clean-IT Contact Cleaner",
+   "description": "Blue Horizon Clean IT Contact Cleaner",
    "ssp": 22,
    "show": null,
    "notes": ""
@@ -15,14 +15,14 @@
  },
  {
    "code": "BH-PROBURN/B",
-   "description": "Blue Horizon Pro-Burn Black",
+   "description": "Blue Horizon Pro Burn Black",
    "ssp": 895,
    "show": null,
    "notes": ""
  },
  {
    "code": "BH-PROBURN/S",
-   "description": "Blue Horizon Pro-Burn Silver",
+   "description": "Blue Horizon Pro Burn Silver",
    "ssp": 895,
    "show": null,
    "notes": ""
@@ -36,7 +36,7 @@
  },
  {
    "code": "BH-PROFONO/S",
-   "description": "Blue Horizon Pro-Phono Silver",
+   "description": "Blue Horizon Profono Silver",
    "ssp": 995,
    "show": null,
    "notes": ""
@@ -420,27 +420,6 @@
    "notes": ""
  },
  {
-   "code": "EM-POSHERO",
-   "description": "Empire Ears Hero display stand",
-   "ssp": 0,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "EM-POSLEGENDX",
-   "description": "Empire Ears Legend X display stand",
-   "ssp": 0,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "EM-POSODIN",
-   "description": "Empire Ears Odin display stand",
-   "ssp": 0,
-   "show": null,
-   "notes": ""
- },
- {
    "code": "EM-RAVEN",
    "description": "Empire Ears Raven 12 Driver IEM - Universal Fit",
    "ssp": 3599,
@@ -484,49 +463,49 @@
  },
  {
    "code": "ISC-AP155/B",
-   "description": "APERTA 155 Stands (Pair) - Black\nAperta Isolating Speaker Stands. Precise adjustable tilt, \nPlatform 15cm x 19m. Maximum weight 16kg each.",
+   "description": "IsoAcoustics APERTA 155 Stands (Pair) - Black",
    "ssp": 199,
    "show": 159.1968,
    "notes": ""
  },
  {
    "code": "ISC-AP155/S",
-   "description": "APERTA 155 Stands (Pair) - Silver\nAperta Isolating Speaker Stands. Precise adjustable tilt, \nPlatform 15cm x 19m. Maximum weight 16kg each.",
+   "description": "IsoAcoustics APERTA 155 Stands (Pair) - Silver",
    "ssp": 199,
    "show": 159.1968,
    "notes": ""
  },
  {
    "code": "ISC-AP200/B",
-   "description": "APERTA 200 Stands (Pair) - Black\nAperta Isolating Speaker Stands. Precise adjustable tilt, \nPlatform 20cm x 25.4cm. Maximum weight 34kg each.",
+   "description": "IsoAcoustics APERTA 200 Stands (Pair) - Black",
    "ssp": 249,
    "show": 199.2,
    "notes": ""
  },
  {
    "code": "ISC-AP200/S",
-   "description": "APERTA 200 Stands (Pair) - Silver",
+   "description": "IsoAcoustics APERTA 200 Stands (Pair) - Silver",
    "ssp": 249,
    "show": 199.2,
    "notes": ""
  },
  {
    "code": "ISC-AP300/B",
-   "description": "APERTA 300 Stands (Single) - Black",
+   "description": "IsoAcoustics APERTA 300 Stands (Single) - Black",
    "ssp": 159,
    "show": 127.2,
    "notes": ""
  },
  {
    "code": "ISC-AP300/S",
-   "description": "APERTA 300 Stands (Single) - Silver\nAperta Isolating Speaker Stands. Precise adjustable tilt, \nPlatform 30cm x 25.4cm. Maximum weight 27kg each.",
+   "description": "IsoAcoustics APERTA 300 Stands (Single) - Silver",
    "ssp": 159,
    "show": 127.2,
    "notes": ""
  },
  {
    "code": "ISC-APPLATE/155",
-   "description": "APERTA Plates for speaker stands with AP155 (pair)",
+   "description": "IsoAcoustics APERTA Plates for speaker stands with AP155 (pair)",
    "ssp": 39,
    "show": 31.2,
    "notes": ""
@@ -553,155 +532,154 @@
    "notes": ""
  },
  {
-   "code": "ISC-DELOS/1815M1",
-   "description": "DELOS 1815M1 Isolation Platform in Maple, 45mm thick, 455mm wide, 380mm deep. Weight capacity 29.5kg",
+   "code": "ISC-DELOS/1815M1", "description": "IsoAcoustics DELOS 1815M1 Isolation Platform in Maple, 45mm thick, 455mm wide, 380mm deep. Weight capacity 29.5kg",
    "ssp": 399,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/1815M2",
-   "description": "DELOS 1815M2 Isolation Platform in Maple, 77mm thick, 455mm wide, 380mm deep. Weight capacity 24.9kg",
+   "description": "IsoAcoustics DELOS 1815M2 Isolation Platform in Maple, 77mm thick, 455mm wide, 380mm deep. Weight capacity 24.9kg",
    "ssp": 499,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/1815W1",
-   "description": "DELOS 1815W1 Isolation Platform in Walnut, 45mm thick, 455mm wide, 380mm deep. Weight capacity 29.5kg",
+   "description": "IsoAcoustics DELOS 1815W1 Isolation Platform in Walnut, 45mm thick, 455mm wide, 380mm deep. Weight capacity 29.5kg",
    "ssp": 549,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/1815W2",
-   "description": "DELOS 1815W2 Isolation Platform in Walnut, 77mm thick, 455mm wide, 380mm deep. Weight capacity 24.9kg",
+   "description": "IsoAcoustics DELOS 1815W2 Isolation Platform in Walnut, 77mm thick, 455mm wide, 380mm deep. Weight capacity 24.9kg",
    "ssp": 649,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/2216M1",
-   "description": "DELOS 2216M1 Isolation Platform in Maple, 45mm thick, 560mm wide, 405mm deep. Weight capacity 45.4kg",
+   "description": "IsoAcoustics DELOS 2216M1 Isolation Platform in Maple, 45mm thick, 560mm wide, 405mm deep. Weight capacity 45.4kg",
    "ssp": 599,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/2216M2",
-   "description": "DELOS 2216M2 Isolation Platform in Maple, 77mm thick, 560mm wide, 405mm deep. Weight capacity 40.8kg",
+   "description": "IsoAcoustics DELOS 2216M2 Isolation Platform in Maple, 77mm thick, 560mm wide, 405mm deep. Weight capacity 40.8kg",
    "ssp": 699,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/2216W1",
-   "description": "DELOS 2216W1 Isolation Platform in Walnut, 45mm thick, 560mm wide, 405mm deep. Weight capacity 45.4kg",
+   "description": "IsoAcoustics DELOS 2216W1 Isolation Platform in Walnut, 45mm thick, 560mm wide, 405mm deep. Weight capacity 45.4kg",
    "ssp": 749,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/2216W2",
-   "description": "DELOS 2216W2 Isolation Platform in Walnut, 77mm thick, 560mm wide, 405mm deep. Weight capacity 40.8kg",
+   "description": "IsoAcoustics DELOS 2216W2 Isolation Platform in Walnut, 77mm thick, 560mm wide, 405mm deep. Weight capacity 40.8kg",
    "ssp": 849,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-F1JACK",
-   "description": "IsoAcoustics F1 Jack designed to aid the lifting of heavier speakers for GAIA fitting",
+   "description": "IsoAcoustics F1 Jack",
    "ssp": 399,
    "show": 319.2,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/I",
-   "description": "GAIA I threaded isolation feet (4) - 100kg capacity",
+   "description": "IsoAcoustics GAIA I threaded isolation feet (4) - 100kg capacity",
    "ssp": 499,
    "show": 399.1968,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/II",
-   "description": "GAIA II threaded isolation feet (4) - 54kg capacity",
+   "description": "IsoAcoustics GAIA II threaded isolation feet (4) - 54kg capacity",
    "ssp": 299,
    "show": 239.2032,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/III",
-   "description": "GAIA III threaded isolation feet (4) - 32kg capacity",
+   "description": "IsoAcoustics GAIA III threaded isolation feet (4) - 32kg capacity",
    "ssp": 199,
    "show": 159.1968,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/IIIS",
-   "description": "GAIA III single threaded isolation foot - 8kg capacity",
+   "description": "IsoAcoustics GAIA III single threaded isolation foot - 8kg capacity",
    "ssp": 59,
    "show": 47.2032,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/IIS",
-   "description": "GAIA II single threaded isolation foot - 13.5kg capacity",
+   "description": "IsoAcoustics GAIA II single threaded isolation foot - 13.5kg capacity",
    "ssp": 89,
    "show": 71.2032,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/IS",
-   "description": "GAIA I single threaded isolation foot - 25kg capacity",
+   "description": "IsoAcoustics GAIA I single threaded isolation foot - 25kg capacity",
    "ssp": 169,
    "show": 135.1968,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/TC",
-   "description": "GAIA TITAN Cronos 100 threaded isolation feet (4) - 280kg capacity",
+   "description": "IsoAcoustics GAIA TITAN Cronos 100 threaded isolation feet (4) - 280kg capacity",
    "ssp": 1449,
    "show": 1159.2,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/TR",
-   "description": "GAIA TITAN Rhea 80 threaded isolation feet (4) - 190kg capacity",
+   "description": "IsoAcoustics GAIA TITAN Rhea 80 threaded isolation feet (4) - 190kg capacity",
    "ssp": 1049,
    "show": 839.2032,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/TRS",
-   "description": "GAIA TITAN Rhea 80 threaded isolation single  foot  - 47.5kg capacity",
+   "description": "IsoAcoustics GAIA TITAN Rhea 80 threaded isolation single  foot  - 47.5kg capacity",
    "ssp": 359,
    "show": 287.2032,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/TT",
-   "description": "GAIA TITAN Theis 70 threaded isolation feet (4) - 145kg capacity",
+   "description": "IsoAcoustics GAIA TITAN Theis 70 threaded isolation feet (4) - 145kg capacity",
    "ssp": 819,
    "show": 655.2,
    "notes": ""
  },
  {
    "code": "ISC-GAIABW",
-   "description": "GAIA I B&W ROUND adaptor plate (4)",
+   "description": "IsoAcoustics GAIA I B&W ROUND adaptor plate (4)",
    "ssp": 55,
    "show": 43.9968,
    "notes": ""
  },
  {
    "code": "ISC-GAIABW/D3",
-   "description": "GAIA I B&W SQUARE (D3) adaptor plate (4)",
+   "description": "IsoAcoustics GAIA I B&W SQUARE (D3) adaptor plate (4)",
    "ssp": 65,
    "show": 52.0032,
    "notes": ""
  },
  {
    "code": "ISC-GAIACD/I",
-   "description": "GAIA Carpet Disk (4) - GAIA I",
+   "description": "IsoAcoustics GAIA Carpet Disk (4) - GAIA I",
    "ssp": 55,
    "show": 43.9968,
    "notes": ""
@@ -1036,13 +1014,6 @@
    "notes": ""
  },
  {
-   "code": "IT-INITSPC15/1.5",
-   "description": "IsoTek EVO3 Initium SMARTPower Cable (C14-C15) - 1.5m",
-   "ssp": 0,
-   "show": 0,
-   "notes": ""
- },
- {
    "code": "IT-INITSPCABLES",
    "description": "IsoTek EVO3 Initium Power Cable (C13) - 1.5m",
    "ssp": 95,
@@ -1222,13 +1193,6 @@
    "description": "IsoTek V5 Polaris (6 Way) Includes Initium C13 Power Cable",
    "ssp": 695,
    "show": 556.0032,
-   "notes": ""
- },
- {
-   "code": "IT-POSCUTBOARD",
-   "description": "ISOTEK - CABLE CUT BOARD",
-   "ssp": 0,
-   "show": 0,
    "notes": ""
  },
  {
@@ -1932,13 +1896,6 @@
    "notes": ""
  },
  {
-   "code": "ME-CBLEMFCA",
-   "description": "Meze ELITE / Empyrean Cable Copper Upgrade - additional 0.5m length (do not pick)",
-   "ssp": 39,
-   "show": null,
-   "notes": ""
- },
- {
    "code": "ME-CBLEMFCXLR",
    "description": "Meze ELITE / Empyrean Cable Copper Upgrade - XLR to mini XLR, Furukawa Copper, 2.5m",
    "ssp": 325,
@@ -1970,13 +1927,6 @@
    "code": "ME-CBLEMFS6.3",
    "description": "Meze ELITE / Empyrean Cable Silver Plated Upgrade - 6.35mm to mini XLR, Furukawa Silver, 2.5m",
    "ssp": 449,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "ME-CBLEMFSA",
-   "description": "Meze ELITE / Empyrean Cable Silver Plated Upgrade - additional 0.5m length (do not pick)",
-   "ssp": 49,
    "show": null,
    "notes": ""
  },
@@ -2331,247 +2281,9 @@
    "notes": ""
  },
  {
-   "code": "ME-PROMO/STAND",
-   "description": "Meze 99 promo stand",
-   "ssp": 54,
-   "show": null,
-   "notes": ""
- },
- {
    "code": "ME-RAIPENTA/BL",
    "description": "Meze RAI Penta 5 driver hybrid IEM, Blue",
    "ssp": 999,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "ME-RAITIPS",
-   "description": "Meze RAI IEM spare tips",
-   "ssp": 0,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-DRIVE/CD",
-   "description": "Novafidelity optional USB CD drive for X14",
-   "ssp": 35,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-DRIVEHD25/1TB",
-   "description": "Novafidelity optional formated hard drive,  2.5\" 1TB HDD (N15 only)",
-   "ssp": 79,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-DRIVEHD25/2TB",
-   "description": "Novafidelity optional formated hard drive,  2.5\" 2TB HDD (N15 only)",
-   "ssp": 109,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-DRIVEHD35/2TB",
-   "description": "Novafidelity optional formated hard drive, 3.5\" 2TB HDD",
-   "ssp": 89,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-DRIVEHD35/4TB",
-   "description": "Novafidelity optional formated hard drive, 3.5\" 4TB HDD",
-   "ssp": 129,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-DRIVESD/1TB",
-   "description": "Novafidelity optional formated hard drive, 2.5\" 1TB SSD",
-   "ssp": 188,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-DRIVESD/2TB",
-   "description": "Novafidelity optional formated hard drive, 2.5\" 2TB SSD",
-   "ssp": 249,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-DRIVESD/4TB",
-   "description": "Novafidelity optional formated hard drive, 2.5\" 4TB SSD",
-   "ssp": 399,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-DRIVESD/500GB",
-   "description": "Novafidelity optional formated hard drive, 2.5\" 500GB SSD",
-   "ssp": 109,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-N15D/BL",
-   "description": "Novafidelity N15D Network Adapter and USB DAC - Black",
-   "ssp": 759,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-N15D/SL",
-   "description": "Novafidelity N15D Network Adapter and USB DAC - Silver",
-   "ssp": 759,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-N25/BT",
-   "description": "Novafidelity N25 Bluetooth Transmission module",
-   "ssp": 89,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-N25AMP/SL",
-   "description": "Novafidelity N25 Streamer and Media Renderer with Built In Ampliifer - Silver",
-   "ssp": 1499,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-PSU/X14",
-   "description": "Novafidelity replacement PSU for X14",
-   "ssp": 69,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-REMOTE/2ND",
-   "description": "Novafidelity 2nd Remote Control - 17 button CNC aluminium.",
-   "ssp": 189,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-REMOTE/X45",
-   "description": "Novafidelity replacement remote for X45",
-   "ssp": 20,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-REMOTE/X45PRO",
-   "description": "Novafidelity replacement remote for X45PRO",
-   "ssp": 20,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-REMOTE/X50D",
-   "description": "Novafidelity replacement remote for X50D",
-   "ssp": 20,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-X35/BL",
-   "description": "Novafidelity X35 All in one Streamer with class D amp - Black",
-   "ssp": 2099,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-X35/SL",
-   "description": "Novafidelity X35 All-in-one Streamer with class D amp - Silver",
-   "ssp": 2099,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "NO-X50/BL",
-   "description": "Novafidelity X50 Pure digital streamer - Black",
-   "ssp": 2199,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVIS-ADPT/GAIAIM810",
-   "description": "GAIA I M8 x 1.25 adaptor spare (single)",
-   "ssp": 3,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVME-M99C-UD",
-   "description": "Meze 99 series Driver",
-   "ssp": 29,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVNO-DVD-DRIVE",
-   "description": "DVD/CD DRIVE FOR X35,X45,X50D, ETC\nLG / HL GS40N",
-   "ssp": 68,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVNO-DVD-DRIVE-X40",
-   "description": "DVD/CD DRIVE FOR X40\nLG / HL GS40N",
-   "ssp": 68,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVNO-ENCODER",
-   "description": "ENCODER ALPS EC11E18244A5\nLEVEL / MENU ROTARY ENCODER NOVA",
-   "ssp": 14,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVNO-HDD-DRAWER",
-   "description": "HDD HARD DRIVE BAY X35,X40.X50 ETC.",
-   "ssp": 20,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVNO-PSUX14",
-   "description": "POWER SUPPLY X14",
-   "ssp": 59,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVNO-X12-CD-DRIVE",
-   "description": "DVD/CD DRIVE FOR X12\nLG / HL GTCON",
-   "ssp": 68,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVNO-X30-SMPS",
-   "description": "X-30 SWITCH MODE POWER SUPPLY",
-   "ssp": 151,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVNO-X35-SMPS",
-   "description": "X-35 SWITCH MODE POWER SUPPLY",
-   "ssp": 151,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "SVNO-X50-SMPS",
-   "description": "X-50 SWITCH MODE POWER SUPPLY",
-   "ssp": 72,
    "show": null,
    "notes": ""
  },
@@ -3037,28 +2749,7 @@
    "show": null,
    "notes": ""
  },
- {
-   "code": "TR-BR08C/BA",
-   "description": "Triangle Borea Active BR08 CONNECT Black Ash",
-   "ssp": 0,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "TR-BR08C/LO",
-   "description": "Triangle Borea Active BR08 CONNECT Light Oak",
-   "ssp": 0,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "TR-BR08C/O",
-   "description": "Triangle Borea Active BR08 CONNECT Oak",
-   "ssp": 0,
-   "show": null,
-   "notes": ""
- },
- {
+    {
    "code": "TR-BR09/BA",
    "description": "Triangle Borea BR09 Floorstanding Speaker - Black Ash",
    "ssp": 599,

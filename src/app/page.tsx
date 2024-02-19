@@ -30,7 +30,7 @@ export default function Home() {
 
     return (
         <main className="flex min-h-screen flex-col items-center justify-between p-4 md:p-24">
-            <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
+            <div className="z-10 w-5xl w-full items-center justify-between font-mono text-sm">
                 <form onSubmit={submitSearch}>
                     <input type="search" value={search} name="search"
                         onChange={e=> updateSearch(e)}
@@ -40,11 +40,20 @@ export default function Home() {
                 </form>
 
 
-                {results.map((result) => (
-                    <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`} key={result.code}>
-                        {result.description.split(" - ")[0]}
-                    </p>
-                ))
+                {results.map((result) => {
+                let description = result.description.split(" - ")
+
+                return (
+                    <div className={`m-0 text-sm opacity-50 text-balance my-4`} key={result.code}>
+                        <h3 className='text-xl'>{description[0]}</h3>
+                        <div>{description[1] ? description[1] : ''}</div>
+                            <div className="flex gap-4 border border-gray-500 p-1 my-1" >
+                        <span className={result.show ? 'line-through' : 'bold'}>£{result.ssp}</span>
+                        <span className={result.show ? 'font-bold' : 'hidden'}>£{Math.round(result.show, 0)}</span>
+                        </div>
+                    </div>
+                )
+                })
                 }
             </div>
         </main>
