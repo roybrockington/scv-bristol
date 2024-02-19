@@ -38,7 +38,7 @@ export default function Home() {
     return (
         <main className="flex min-h-screen flex-col items-center justify-between p-4 md:p-24">
             <div className="z-10 w-5xl w-full items-center justify-between font-mono text-sm">
-                <form autoComplete="off" onSubmit={submitSearch} className="flex items-center">
+                <form autoComplete="off" autoCapitalize='off' autoCorrect="off" spellCheck="false" onSubmit={submitSearch} className="flex items-center">
                     <input type="search" value={search} name="search" id="search"
                         autoFocus
                         onChange={e=> updateSearch(e)}
@@ -69,6 +69,7 @@ export default function Home() {
                 })
                 }
             </div>
+            <div className="text-xs mt-4">Copyright &copy; 2024 SCV Distribution</div>
         </main>
     );
 }
