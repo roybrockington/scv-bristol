@@ -505,7 +505,7 @@
  },
  {
    "code": "ISC-APPLATE/155",
-   "description": "IsoAcoustics APERTA Plates for speaker stands with AP155 (pair)",
+   "description": "IsoAcoustics APERTA Plates AP155 (pair)",
    "ssp": 39,
    "show": 31.2,
    "notes": ""
@@ -532,56 +532,57 @@
    "notes": ""
  },
  {
-   "code": "ISC-DELOS/1815M1", "description": "IsoAcoustics DELOS 1815M1 Isolation Platform in Maple, 45mm thick, 455mm wide, 380mm deep. Weight capacity 29.5kg",
+   "code": "ISC-DELOS/1815M1",
+   "description": "IsoAcoustics DELOS 1815M1 Isolation Platform in Maple",
    "ssp": 399,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/1815M2",
-   "description": "IsoAcoustics DELOS 1815M2 Isolation Platform in Maple, 77mm thick, 455mm wide, 380mm deep. Weight capacity 24.9kg",
+   "description": "IsoAcoustics DELOS 1815M2 Isolation Platform in Maple",
    "ssp": 499,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/1815W1",
-   "description": "IsoAcoustics DELOS 1815W1 Isolation Platform in Walnut, 45mm thick, 455mm wide, 380mm deep. Weight capacity 29.5kg",
+   "description": "IsoAcoustics DELOS 1815W1 Isolation Platform in Walnut",
    "ssp": 549,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/1815W2",
-   "description": "IsoAcoustics DELOS 1815W2 Isolation Platform in Walnut, 77mm thick, 455mm wide, 380mm deep. Weight capacity 24.9kg",
+   "description": "IsoAcoustics DELOS 1815W2 Isolation Platform in Walnut",
    "ssp": 649,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/2216M1",
-   "description": "IsoAcoustics DELOS 2216M1 Isolation Platform in Maple, 45mm thick, 560mm wide, 405mm deep. Weight capacity 45.4kg",
+   "description": "IsoAcoustics DELOS 2216M1 Isolation Platform in Maple",
    "ssp": 599,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/2216M2",
-   "description": "IsoAcoustics DELOS 2216M2 Isolation Platform in Maple, 77mm thick, 560mm wide, 405mm deep. Weight capacity 40.8kg",
+   "description": "IsoAcoustics DELOS 2216M2 Isolation Platform in Maple",
    "ssp": 699,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/2216W1",
-   "description": "IsoAcoustics DELOS 2216W1 Isolation Platform in Walnut, 45mm thick, 560mm wide, 405mm deep. Weight capacity 45.4kg",
+   "description": "IsoAcoustics DELOS 2216W1 Isolation Platform in Walnut",
    "ssp": 749,
    "show": null,
    "notes": ""
  },
  {
    "code": "ISC-DELOS/2216W2",
-   "description": "IsoAcoustics DELOS 2216W2 Isolation Platform in Walnut, 77mm thick, 560mm wide, 405mm deep. Weight capacity 40.8kg",
+   "description": "IsoAcoustics DELOS 2216W2 Isolation Platform in Walnut",
    "ssp": 849,
    "show": null,
    "notes": ""
@@ -735,42 +736,42 @@
  },
  {
    "code": "ISC-OREA/B",
-   "description": "IsoAcoustics OREA BORDEAUX isolation puck. 14.5kg capacity (each)",
+   "description": "IsoAcoustics OREA BORDEAUX (each)",
    "ssp": 79,
    "show": 63.1968,
    "notes": ""
  },
  {
    "code": "ISC-OREA/G",
-   "description": "IsoAcoustics OREA GRAPHITE isolation puck. 1.8kg capacity (each)",
+   "description": "IsoAcoustics OREA GRAPHITE (each)",
    "ssp": 45,
    "show": 36,
    "notes": ""
  },
  {
    "code": "ISC-OREA/I",
-   "description": "IsoAcoustics OREA INDIGO isolation puck. 7.2kg capacity (each)",
+   "description": "IsoAcoustics OREA INDIGO (each)",
    "ssp": 59,
    "show": 47.2032,
    "notes": ""
  },
  {
    "code": "ISC-OREA/Z",
-   "description": "IsoAcoustics OREA BRONZE isolation puck. 3.6kg capacity (each)",
+   "description": "IsoAcoustics OREA BRONZE (each)",
    "ssp": 49,
    "show": 39.1968,
    "notes": ""
  },
  {
    "code": "ISC-ZAZEN/I",
-   "description": "IsoAcoustics ZaZen I Isolation Platform in Black, 11.3kg capacity",
+   "description": "IsoAcoustics ZaZen I Isolation Platform",
    "ssp": 199,
    "show": 159.1968,
    "notes": ""
  },
  {
    "code": "ISC-ZAZEN/II",
-   "description": "IsoAcoustics ZaZen II Isolation Platform in Black, 18.1kg capacity",
+   "description": "IsoAcoustics ZaZen II Isolation Platform",
    "ssp": 229,
    "show": 183.1968,
    "notes": ""
