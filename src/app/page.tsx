@@ -28,15 +28,27 @@ export default function Home() {
         setSearch(e.target.value)
     }
 
+    const resetSearch = () => {
+        setSearch('')
+        setResults(products)
+        document.getElementById('search')?.focus()
+    }
+
     return (
         <main className="flex min-h-screen flex-col items-center justify-between p-4 md:p-24">
             <div className="z-10 w-5xl w-full items-center justify-between font-mono text-sm">
-                <form onSubmit={submitSearch}>
-                    <input type="search" value={search} name="search"
+                <form onSubmit={submitSearch} className="flex items-center">
+                    <input type="search" value={search} name="search" id="search"
+                        autoFocus
                         onChange={e=> updateSearch(e)}
                         placeholder="Search brand or model..."
                         className="w-full px-4 py-2 mt-2 mb-2 text-base text-black transition duration-500 ease-in-out transform border-transparent rounded-lg bg-gray-100 focus:border-blueGray-500 focus:bg-white focus:outline-none focus:shadow-outline focus:ring-2 ring-offset-current ring-offset-2"
                     />
+                <button
+                        className={search ? "bg-red-700 float-right p-2 rounded ml-1 text-white font-bold" : "hidden"}
+                        onClick={resetSearch}
+                        type="button"
+                    >X</button>
                 </form>
 
 
