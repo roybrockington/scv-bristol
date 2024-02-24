@@ -87,77 +87,63 @@
    "code": "BM-AHB2/B",
    "description": "Benchmark AHB2 High Resolution Power Amplifier - Black",
    "ssp": 3749,
-   "show": null,
+   "show": 3369,
    "notes": ""
  },
  {
    "code": "BM-AHB2/S",
    "description": "Benchmark AHB2 High Resolution Power Amplifier - Silver",
    "ssp": 3749,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "BM-AHB2RM/B",
-   "description": "Benchmark AHB2RM Rackmount Power Amplifier - Black",
-   "ssp": 3849,
-   "show": null,
-   "notes": ""
- },
- {
-   "code": "BM-AHB2RM/S",
-   "description": "Benchmark AHB2RM Rackmount Power Amplifier - Silver",
-   "ssp": 3849,
-   "show": null,
+   "show": 3369,
    "notes": ""
  },
  {
    "code": "BM-DAC3B/B",
    "description": "Benchmark DAC3B Converter - Black (no remote)",
    "ssp": 2049,
-   "show": null,
+   "show": 1799,
    "notes": ""
  },
  {
    "code": "BM-DAC3B/S",
    "description": "Benchmark DAC3B Converter - Silver (no remote)",
    "ssp": 2049,
-   "show": null,
+   "show": 1799,
    "notes": ""
  },
  {
    "code": "BM-DAC3HGC/B",
    "description": "Benchmark DAC3HGC Converter - Black (no remote)",
    "ssp": 2449,
-   "show": null,
+   "show": 2199,
    "notes": ""
  },
  {
    "code": "BM-DAC3HGC/S",
    "description": "Benchmark DAC3HGC Converter - Silver (no remote)",
    "ssp": 2449,
-   "show": null,
+   "show": 2199,
    "notes": ""
  },
  {
    "code": "BM-DAC3L/B",
    "description": "Benchmark DAC3L Converter - Black (no remote)",
    "ssp": 2249,
-   "show": null,
+   "show": 1999,
    "notes": ""
  },
  {
    "code": "BM-DAC3L/S",
    "description": "Benchmark DAC3L Converter - Silver (no remote)",
    "ssp": 2249,
-   "show": null,
+   "show": 1999,
    "notes": ""
  },
  {
    "code": "BM-DACREMOTE",
    "description": "Benchmark Remote Control for DAC3, LA4 and HPA4",
    "ssp": 115,
-   "show": null,
+   "show": 100,
    "notes": ""
  },
  {
@@ -171,28 +157,28 @@
    "code": "BM-HPA4/B",
    "description": "Benchmark HPA4 Headphone & Line Amplifier - Black (no remote)",
    "ssp": 3749,
-   "show": null,
+   "show": 3369,
    "notes": ""
  },
  {
    "code": "BM-HPA4/S",
    "description": "Benchmark HPA4 Headphone & Line Amplifier - Silver (no remote)",
    "ssp": 3749,
-   "show": null,
+   "show": 3369,
    "notes": ""
  },
  {
    "code": "BM-LA4/B",
    "description": "Benchmark LA4 Reference Line Preamplifier- Black (no remote)",
    "ssp": 3149,
-   "show": null,
+   "show": 2799,
    "notes": ""
  },
  {
    "code": "BM-LA4/S",
    "description": "Benchmark LA4 Reference Line Preamplifier - Silver (no remote)",
    "ssp": 3149,
-   "show": null,
+   "show": 2799,
    "notes": ""
  },
  {
@@ -465,14 +451,14 @@
    "code": "ISC-AP155/B",
    "description": "IsoAcoustics APERTA 155 Stands (Pair) - Black",
    "ssp": 199,
-   "show": 159.1968,
+   "show": 159,
    "notes": ""
  },
  {
    "code": "ISC-AP155/S",
    "description": "IsoAcoustics APERTA 155 Stands (Pair) - Silver",
    "ssp": 199,
-   "show": 159.1968,
+   "show": 159,
    "notes": ""
  },
  {
@@ -493,14 +479,14 @@
    "code": "ISC-AP300/B",
    "description": "IsoAcoustics APERTA 300 Stands (Single) - Black",
    "ssp": 159,
-   "show": 127.2,
+   "show": 129,
    "notes": ""
  },
  {
    "code": "ISC-AP300/S",
    "description": "IsoAcoustics APERTA 300 Stands (Single) - Silver",
    "ssp": 159,
-   "show": 127.2,
+   "show": 129,
    "notes": ""
  },
  {
@@ -598,21 +584,21 @@
    "code": "ISC-GAIA/I",
    "description": "IsoAcoustics GAIA I threaded isolation feet (4) - 100kg capacity",
    "ssp": 499,
-   "show": 399.1968,
+   "show": 399,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/II",
    "description": "IsoAcoustics GAIA II threaded isolation feet (4) - 54kg capacity",
    "ssp": 299,
-   "show": 239.2032,
+   "show": 239,
    "notes": ""
  },
  {
    "code": "ISC-GAIA/III",
    "description": "IsoAcoustics GAIA III threaded isolation feet (4) - 32kg capacity",
    "ssp": 199,
-   "show": 159.1968,
+   "show": 159,
    "notes": ""
  },
  {
@@ -738,42 +724,42 @@
    "code": "ISC-OREA/B",
    "description": "IsoAcoustics OREA BORDEAUX (each)",
    "ssp": 79,
-   "show": 63.1968,
+   "show": 65,
    "notes": ""
  },
  {
    "code": "ISC-OREA/G",
    "description": "IsoAcoustics OREA GRAPHITE (each)",
    "ssp": 45,
-   "show": 36,
+   "show": 35,
    "notes": ""
  },
  {
    "code": "ISC-OREA/I",
    "description": "IsoAcoustics OREA INDIGO (each)",
    "ssp": 59,
-   "show": 47.2032,
+   "show": 45,
    "notes": ""
  },
  {
    "code": "ISC-OREA/Z",
    "description": "IsoAcoustics OREA BRONZE (each)",
    "ssp": 49,
-   "show": 39.1968,
+   "show": 39,
    "notes": ""
  },
  {
    "code": "ISC-ZAZEN/I",
    "description": "IsoAcoustics ZaZen I Isolation Platform",
    "ssp": 199,
-   "show": 159.1968,
+   "show": 159,
    "notes": ""
  },
  {
    "code": "ISC-ZAZEN/II",
    "description": "IsoAcoustics ZaZen II Isolation Platform",
    "ssp": 229,
-   "show": 183.1968,
+   "show": 179,
    "notes": ""
  },
  {
